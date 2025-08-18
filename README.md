@@ -1,1 +1,1 @@
-http://localhost:8501/
+(https://appdemo-bxmkyklszvlcznttziykcr.streamlit.app/)
